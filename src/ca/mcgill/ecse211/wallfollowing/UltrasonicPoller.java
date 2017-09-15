@@ -1,4 +1,4 @@
-package ca.mcgill.ecse211.wallfollowing;
+package src.ca.mcgill.ecse211.wallfollowing;
 
 import lejos.robotics.SampleProvider;
 
